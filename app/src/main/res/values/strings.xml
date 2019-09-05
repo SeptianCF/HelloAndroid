@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Tugas Minggu 1</string>
+    <string name="hint_name">Septian Caesar F</string>
+    <string name="submit">Submit</string>
 </resources>
